@@ -1,0 +1,26 @@
+Create an EBS Snapshot and View snapshot
+
+This section will guide you to: 
+●	Create an EBS snapshot
+
+This lab has two subsection, namely:
+3.8.1 Creating an EBS snapshot
+3.8.2 Pushing the file to GitHub repositories
+
+Step 3.8.1: Creating an EBS snapshot
+●	Select Volume in EC2 dashboard 
+●	Click on Action -> Create Snapshot
+ 
+
+●	Add snapshot name, key, and value
+
+
+
+
+View snapshot
+
+This section will guide you to view a snapshot in your AWS account. 
+
+Step 1: To view snapshots, you need to navigate to the EC2 dashboard available on the panel on the left. Click on snapshot to view all available snapshots.  
+
+ 
